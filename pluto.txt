@@ -1,9 +1,5 @@
 co-signers for now (alphabetical order for now): dracula, frank, mummy, and wolfman
 it is so a planet!
 a planet with a charming heart, what's not to love?
-<<<<<<< HEAD
-pluto and charon are 2 planets orbiting a mass outside either one -- no howling charon, it's not a moon
-=======
-and hearts have lots of blood
+pluto and charon are 2 planets orbiting a mass outside either one -- no howling charon, it's not a moon and hearts have lots of blood
 
->>>>>>> d
